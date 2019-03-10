@@ -5,12 +5,12 @@
 #### Team Name: `YOUR TEAM NAME HERE`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `Use voice technology, such as Alexa, to provide deliver-to-home service to senior adults upon request`
+##### `The voice input will connect seniors to an assistant that helps with variety of services including grocery shopping, phamarchy delivery,etc.  `  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### `https://datausa.io/profile/geo/san-diego-county-ca/ DATASETS HERE`
+- ##### `http://worldpopulationreview.com/us-cities/san-diego-population/ DATASETS  HERE`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
@@ -18,22 +18,22 @@
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
 | 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 | Yuwei Liu     |               [X]          |             [ ]             |         [ ]          |                  [ ]                     |
-| 03 |                     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Yuwei Liu     |               [X]          |             [ x]             |         [ ]          |                  [ ]                     |
+| 03 | Luis Sosa          |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 |Amanda Youif           |         [X]          |             [ x]             |         [ ]          |               [ ]                     |
+| 05 |    Jiadi An         |         [X]          |             [ x]             |         [ ]          |                 [ ]                     |
+| 06 | Farzan Khoobcheher  |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 07 |   Kyle Anderson   |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 08 |   Rebecca           |         [X]          |             [X ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
   
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
-- [ ] Your question:
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [X] Your question: How to build a elder-care network using voice technology?
 
 **Smart Environment**
 - [ ] How can San Diegans have access to better air quality indoors and outdoors?
