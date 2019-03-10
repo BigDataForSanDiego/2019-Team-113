@@ -2,7 +2,7 @@
 
 #### Team Number: `113`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Genie`    
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### `Use voice technology, such as Alexa, to provide deliver-to-home service to senior adults upon request`
