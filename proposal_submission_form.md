@@ -9,8 +9,8 @@
 ##### `The voice input will connect seniors to an assistant that helps with variety of services including grocery shopping, phamarchy delivery,etc.  `  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `https://datausa.io/profile/geo/san-diego-county-ca/ DATASETS HERE`
-- ##### `http://worldpopulationreview.com/us-cities/san-diego-population/ DATASETS  HERE`
+- ##### `https://datausa.io/profile/geo/san-diego-county-ca/ `
+- ##### `http://worldpopulationreview.com/us-cities/san-diego-population/ `
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
